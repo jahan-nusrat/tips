@@ -1,1 +1,1 @@
-## JavaScript, TypeScript, React, Redux, CSS tips (<h4>collected from LinkedIn, StackOverflow</h4>)
+## JavaScript, TypeScript, React, Redux, CSS tips
